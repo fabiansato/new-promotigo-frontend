@@ -1,0 +1,40 @@
+.barraNav{
+    top: 0px;
+    left: 0px;
+
+    opacity: 1;
+}
+
+.barraNav__titulo{
+    padding-top: 50px;   
+    padding-bottom: 50px;
+    font: $Fuente-family-open-sans;
+    font-weight: $Fuente-weight-bold;
+    font-size: $Fuente-size-50;
+   
+letter-spacing: $caracter-spacing-0;
+color: $color-sexto;
+
+text-align: left;
+
+
+
+opacity: 1;
+    
+}
+
+// Media queries 
+@media only screen and (min-width: 901px) {
+    .barraNav__titulo{
+        padding-left: 20px;  
+        text-align: center;
+    }
+  }
+
+
+  @media only screen and (min-width: 201px) and (max-width: 900px) {
+    .barraNav__titulo{
+        padding-left: 20px;  
+        text-align: left;
+    }
+  }

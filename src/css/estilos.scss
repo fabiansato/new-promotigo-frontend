@@ -1,0 +1,12 @@
+@import "globales.scss";
+@import "cabecera.scss";
+@import "nav.scss";
+@import "footer.scss";
+@import "promociones.scss";
+@import "slider.scss";
+
+.row > *{
+
+margin-top: 10px !important;
+margin-bottom: 10px !important;
+}

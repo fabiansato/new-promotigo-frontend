@@ -1,0 +1,40 @@
+.cabecera{
+   background-image: url("../../src/img/cabeceraFondo.webp"); 
+   top: 0px;
+   left: 0px;
+   height: 438px;
+   opacity: 1;
+  
+}
+
+.cabecera__titulo{
+ 
+    font: $Fuente-family-open-sans;
+    font-weight: $Fuente-weight-bold;
+    font-size: $Fuente-size-70;
+   
+letter-spacing: $caracter-spacing-0;
+color: $color-terciario;
+
+text-align: left;
+
+
+
+text-shadow: 0px 6px 10px #00000029;
+opacity: 1;
+
+}
+
+// Media queries 
+@media only screen and (min-width: 901px) {
+    .cabecera__titulo{
+        padding-top: 219px;  
+    }
+  }
+
+
+  @media only screen and (min-width: 201px) {
+    .cabecera__titulo{
+        padding-top: 119px;  
+    }
+  }

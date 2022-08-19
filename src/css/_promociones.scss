@@ -1,0 +1,108 @@
+.promociones__caja{
+
+background: $color-terciario 0% 0% no-repeat padding-box;
+box-shadow: 0px 6px 8px #00000029;
+border-radius: 10px;
+opacity: 1;
+margin-top: 10px;
+}
+
+.promociones__contenedor{
+    position: relative;
+}
+.promociones__contenedorImagen{
+    
+  
+    top: 8px;
+    right: 28px;
+    font-size: 18px;
+}
+.promociones__imagen{
+
+    border-radius: 10px;
+    font-size: 18px;
+    width: 253px;
+    height: 210px;
+}
+
+.promociones__titulo{
+    font: $Fuente-style-normal $Fuente-style-normal $Fuente-weight-600 $Fuente-size-24 $Fuente-family-open-sans;
+    letter-spacing: $caracter-spacing-0;
+    
+    text-align: left;
+ 
+    letter-spacing: $caracter-spacing-0;
+    color: $color-sexto;
+    opacity: 1;
+}
+.promociones__descripcion{
+    font: $Fuente-style-normal $Fuente-style-normal $Fuente-weight-normal $Fuente-size-20 $Fuente-family-open-sans;
+    letter-spacing: $caracter-spacing-0;
+    
+    text-align: left;
+ 
+    letter-spacing: $caracter-spacing-0;
+    color: $color-quinto;
+    opacity: 1;
+    margin-top: 20px;
+}
+.promociones__valido{
+    font: $Fuente-style-normal $Fuente-style-normal $Fuente-weight-normal $Fuente-size-13 $Fuente-family-open-sans;
+    letter-spacing: $caracter-spacing-0;
+    
+    text-align: left;
+ 
+    letter-spacing: $caracter-spacing-0;
+    color: $color-quinto;
+    opacity: 1;
+    margin-top: 20px;
+}
+.promociones__boton{
+    border: 3px solid $color-secundario;
+border: 3px solid $color-secundario;
+border-radius: 10px;
+opacity: 1;
+margin-top: 20px;
+margin-bottom: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+   font: $Fuente-style-normal $Fuente-weight-600 $Fuente-size-24 $Fuente-family-open-sans;
+    letter-spacing: $caracter-spacing-0;
+    color: $color-secundario;
+    text-align: left;
+    font: normal normal 600 23px/32px Open Sans;
+    letter-spacing: 0px;
+    color: $color-secundario;
+    opacity: 1;
+    top: 10px;
+}
+.promociones__boton:hover{
+    border: 3px solid $color-secundario;
+border: 3px solid $color-secundario;
+background-color: $color-secundario;
+color: $color-terciario;
+border-radius: 10px;
+opacity: 1;
+margin-top: 20px;
+margin-bottom: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+font: $Fuente-style-normal $Fuente-weight-600 $Fuente-size-24 $Fuente-family-open-sans;
+letter-spacing: $caracter-spacing-0;
+color: $color-secundario;
+text-align: left;
+font: normal normal 600 23px/32px Open Sans;
+letter-spacing: 0px;
+color: $color-terciario;
+opacity: 1;
+top: 10px;
+cursor: pointer;
+}
+
+@media only screen and (min-width: 960px) {
+    .promociones__contenedorImagen{
+    
+        position: absolute;
+    }
+  }
