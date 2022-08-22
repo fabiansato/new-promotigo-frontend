@@ -1,0 +1,26 @@
+[
+    {"image":"src/assets/img/datacaptures/primerospasos.jpg", "title": "Rexona - Primeros Pasos", "meta": "¡Completá el formulario para hacer esa clase sin miedos ni prejuicios! Tenemos muchas opciones pensadas para vos, asique no te quedes con las ganas.", "buttonText": "Mirá la promo", "link": "https://www.promounilever.com/rexona-primeros-pasos/" },
+    
+    {"image":"src/assets/img/datacaptures/sedal-lali-tour.webp", "title": "Sedal - Disciplina Tour 2022", "meta": "Viví esta increíble experiencia y ganá entradas para ver el show de Lali en vivo. Ya llega el Disciplina Tour y ¡no te podes quedar afuera!", "buttonText": "Mirá la promo", "link": "https://www.sedal.com.ar/disciplinatourconsedal.html" },
+
+
+
+    
+    {"image":"src/assets/img/datacaptures/Copalibertadores.jpg", "title": "Sorteo - Copa Libertadores", "meta": "Rexona te regala dos entradas para la Copa Libertadores. Completá el formulario y participá.", "buttonText": "Mirá la promo", "link": "https://www.promounilever.com/Rexona-copa-libertadores/" },
+
+    {"image":"src/assets/img/datacaptures/skipparadiluir2002.jpg", "title": "Sorteo - Ganá un pack de productos de Skip para Diluir", "meta": "Participá del sorteo por un pack de productos de Skip con 12 botellas de Skip para diluir de 500ml. Ganá, ahorrá y protege tu ropa con Skip", "buttonText": "Mirá la promo", "link": "https://www.promounilever.com/skip-para-diluir/" },
+
+    {"image":"src/assets/img/datacaptures/alaparadiluir2022.jpg", "title": "Sorteo - Ganá un pack de productos de Ala para Diluir", "meta": "Participá del sorteo por un pack de productos de Ala con 12 botellas de Ala para diluir de 500ml. Ganá, ahorrá y protege tu ropa con Ala", "buttonText": "Mirá la promo", "link": "https://www.promounilever.com/ala-para-diluir/" },
+    
+    {"image":"src/assets/img/datacaptures/shopuniliver2022.jpg", "title": "Stockea tu casa - Ganá un Kit de Productos Unilever gratis", "meta": "Llená el formulario y participá del sorteo para ganar un kit de productos gratis de Unilever. Stockea tu casa y ganale a la inflación.", "buttonText": "Mirá la promo", "link": "https://www.promounilever.com/shop-unilever-productos-gratis/" },
+
+   
+    {"image":"src/assets/img/datacaptures/rexonariver.webp", "title": "Rexona - River", "meta": "Registrate y participá por un par de entradas para alentar a River", "buttonText": "Mirá la promo", "link": "https://www.promounilever.com/RexonaClasicoRiver" },
+
+    {"image":"src/assets/img/datacaptures/sedalverano2022.webp",  "title": "Sedal Promo Verano", "meta": "Ganá un Meet&Greet Virtual con Lali! También podés ganar un año de productos Sedal", "buttonText": "Mirá la promo", "link": "https://www.promounilever.com/sedal-verano-2022" },
+
+    {"image":"src/assets/img/datacaptures/completaskip.webp",  "title": "Club Skip y CT Skip", "meta": "Registrá tu service - Skip", "buttonText": "Registrate", "link": "https://www.promounilever.com/registra-tu-service" }
+
+
+
+]
